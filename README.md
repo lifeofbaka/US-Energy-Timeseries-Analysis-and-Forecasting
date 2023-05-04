@@ -1,4 +1,7 @@
 # US-Energy-Timeseries
+
+![Alt text](https://github.com/lifeofbaka/US-Energy-Timeseries-Analysis-and-Forecasting/blob/main/graphs%20(1).gif)
+
 This is a time series analysis and forecasting project I have been working on which includes Visualizations for several Energy categories in the United States. During the first stages of this Analysis I was attempting to find a solution for determining null values within the given time series. After cleaning the data I used the ARIMA model to train and create predictions.
 
 
